@@ -31,6 +31,7 @@ package.json                  # Ignore Node.js dependencies file
 tests/                        # Ignore entire tests directory
 yolov8n.pt.03b2cfe2b2154f6e90a3b9f7e2994e66.partial  # Ignore specific model files
 
-# Ignore additional environment variables and config files
-.env                          # Ignore environment variable files
+# secret
+.env
 
+gradio/
