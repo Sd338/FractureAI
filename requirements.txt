@@ -1,0 +1,38 @@
+# Core Dependencies
+torch  # PyTorch for YOLOv8 and LLaMA
+torchvision  # For image processing related to PyTorch
+
+# YOLOv8 Dependencies
+ultralytics  # YOLOv8 package
+
+# FastAPI for the Backend (or Flask if you prefer)
+fastapi  # For API framework
+uvicorn  # ASGI server for FastAPI
+sqlalchemy  # ORM for database interactions
+
+# OR use Flask (Uncomment the next two lines if you prefer Flask instead of FastAPI)
+flask  # Flask as an alternative to FastAPI
+# gunicorn  # WSGI server for Flask
+
+# LLaMA for Recommendations (via GorQ API)
+requests  # For API calls to GorQ
+llama-cpp-python  # LLaMA integration (replace with appropriate package if different)
+
+# Image Processing
+opencv-python  # For handling X-ray image processing
+pillow  # Image processing library (optional, in case of PIL operations)
+
+# Data Handling
+numpy  # For numerical computations
+pandas  # For handling structured data (if needed)
+
+# Additional Utilities
+pydantic  # For data validation (used in FastAPI)
+jinja2  # If using HTML templating (e.g., in FastAPI or Flask)
+
+# Model Training and Evaluation
+scikit-learn  # For any model evaluation metrics
+matplotlib  # For visualization of model performance
+tensorboard  # For logging training metrics (optional)
+python-dotenv  # For environment variable management
+groq  # For working with Groq API
