@@ -1,0 +1,3 @@
+gradio          # Adjust this based on the latest version
+transformers   # Or the version you're using for LLaMA
+torch         # Adjust based on your setup
