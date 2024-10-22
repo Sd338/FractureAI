@@ -6,6 +6,8 @@ class APIManager:
         self.api_keys = [
             os.getenv("GORQ_API_KEY_1"),
             os.getenv("GORQ_API_KEY_2"),
+            os.getenv("GORQ_API_KEY_3"),
+            os.getenv("GORQ_API_KEY_4")
             # Add more API keys as needed
         ]
         self.current_key_index = 0
