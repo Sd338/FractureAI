@@ -8,6 +8,8 @@ class Config:
     # API keys for accessing external services
     GORQ_API_KEY_1 = os.getenv("GORQ_API_KEY_1")
     GORQ_API_KEY_2 = os.getenv("GORQ_API_KEY_2")
+    GORQ_API_KEY_3 = os.getenv("GORQ_API_KEY_3")
+    GORQ_API_KEY_4 = os.getenv("GORQ_API_KEY_4")
 
     # Rate limits for the model
     RATE_LIMIT_REQUESTS_PER_MINUTE = 30  # For llama-3.2-11b-text-preview
