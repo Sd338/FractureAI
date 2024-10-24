@@ -1,0 +1,229 @@
+2024-10-08 23:07:55,351 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-08 23:07:56,572 - INFO - Visualization saved to detection_result_20241008_230756.jpg
+2024-10-08 23:07:58,460 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-08 23:18:42,837 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-08 23:18:42,837 - ERROR - Error in fracture detection: [Errno 22] Invalid argument: '"C:\\Users\\sd876\\Downloads\\Facebook\\441276484_478017954788273_3491614684915675436_n.jpg"'
+2024-10-08 23:19:03,758 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-08 23:19:05,049 - INFO - Visualization saved to detection_result_20241008_231905.jpg
+2024-10-08 23:19:06,050 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-08 23:26:33,997 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-08 23:26:35,436 - INFO - Visualization saved to detection_result_20241008_232635.jpg
+2024-10-08 23:26:36,357 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-08 23:32:49,188 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-08 23:32:50,363 - INFO - Visualization saved to detection_result_20241008_233250.jpg
+2024-10-08 23:32:51,619 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-08 23:39:07,973 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-08 23:39:09,228 - INFO - Visualization saved to detection_result_20241008_233909.jpg
+2024-10-08 23:39:10,239 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-08 23:47:15,370 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-08 23:47:46,894 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-08 23:47:46,905 - ERROR - Error in fracture detection: [Errno 22] Invalid argument: '& C:/Users/sd876/AppData/Local/Programs/Python/Python312/python.exe c:/Users/sd876/OneDrive/Desktop/FractureAI/backend/tests/test_model.py'
+2024-10-08 23:48:21,074 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-08 23:48:22,447 - INFO - Visualization saved to detection_result_20241008_234822.jpg
+2024-10-08 23:48:24,023 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-08 23:56:45,460 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-08 23:56:46,677 - INFO - Visualization saved to detection_result_20241008_235646.jpg
+2024-10-08 23:57:12,422 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-08 23:57:13,621 - INFO - Visualization saved to detection_result_20241008_235713.jpg
+2024-10-08 23:59:31,540 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-08 23:59:32,807 - INFO - Visualization saved to detection_result_20241008_235932.jpg
+2024-10-08 23:59:34,490 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-09 00:00:37,327 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-09 09:51:18,443 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-09 09:51:21,752 - INFO - Visualization saved to detection_result_20241009_095121.jpg
+2024-10-09 09:51:26,498 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-09 09:54:49,927 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-09 10:00:17,195 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-09 10:02:34,892 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-09 10:02:37,586 - INFO - Visualization saved to detection_result_20241009_100237.jpg
+2024-10-09 10:03:53,731 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-09 10:09:21,723 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-09 10:09:45,792 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-09 10:10:10,930 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-09 10:10:12,012 - INFO - Visualization saved to detection_result_20241009_101011.jpg
+2024-10-09 10:11:02,476 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-09 10:11:03,573 - INFO - Visualization saved to detection_result_20241009_101103.jpg
+2024-10-09 10:11:40,093 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-09 10:11:41,149 - INFO - Visualization saved to C:\Users\sd876\OneDrive\Desktop\FractureAI\output_images\detection_result_20241009_101141.jpg
+2024-10-09 10:22:11,765 - ERROR - Error loading model: [Errno 2] No such file or directory: 'C:\\Users\\sd876\\OneDrive\\Desktop\\FractureAI\\backend\\training\\outputs\\model checkpoints\\last.pt'
+2024-10-09 19:55:24,595 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-09 19:55:27,641 - INFO - Visualization saved to C:\Users\sd876\OneDrive\Desktop\FractureAI\output_images\detection_result_20241009_195527.jpg
+2024-10-09 19:55:29,660 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-09 20:30:39,904 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-09 20:44:11,200 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 10:08:25,691 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 10:08:27,591 - INFO - Visualization saved to C:\Users\sd876\OneDrive\Desktop\FractureAI\output_images\detection_result_20241011_100827.jpg
+2024-10-11 10:08:28,587 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-11 10:29:08,140 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 10:29:34,304 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 10:29:44,669 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 21:13:59,484 - ERROR - Error loading model: 'path/to/model' does not exist
+2024-10-11 21:14:43,689 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 21:14:47,711 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 21:16:12,847 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 21:16:35,173 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 21:17:05,996 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 21:18:06,655 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 21:18:08,573 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 21:21:36,982 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 21:21:59,929 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 21:23:10,419 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 21:23:41,955 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 21:23:51,482 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 21:23:55,767 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 21:24:40,235 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 21:26:33,437 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 22:29:04,141 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 22:29:51,370 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 22:30:19,183 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 22:32:02,822 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 22:32:13,150 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 22:37:14,297 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 22:37:24,844 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 22:37:35,055 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-11 22:42:37,585 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-14 20:53:22,208 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-14 20:53:23,543 - INFO - Visualization saved to C:\Users\sd876\OneDrive\Desktop\FractureAI\output_images\detection_result_20241014_205323.jpg
+2024-10-14 20:53:24,670 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-14 21:37:58,368 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-14 21:43:02,976 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-15 00:03:55,220 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-15 00:07:15,104 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-15 00:08:42,799 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-15 00:10:30,249 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-15 00:10:31,426 - INFO - Visualization saved to C:\Users\sd876\OneDrive\Desktop\FractureAI\output_images\detection_result_20241015_001031.jpg
+2024-10-15 00:10:32,716 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-15 13:21:30,484 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-15 13:21:33,524 - INFO - Visualization saved to C:\Users\sd876\OneDrive\Desktop\FractureAI\output_images\detection_result_20241015_132133.jpg
+2024-10-15 13:21:34,902 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-15 13:27:19,443 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-15 13:27:22,180 - INFO - Visualization saved to C:\Users\sd876\OneDrive\Desktop\FractureAI\output_images\detection_result_20241015_132722.jpg
+2024-10-15 13:27:24,111 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-15 13:40:05,502 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-15 13:41:27,850 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-15 13:41:30,505 - INFO - Visualization saved to C:\Users\sd876\OneDrive\Desktop\FractureAI\output_images\detection_result_20241015_134130.jpg
+2024-10-15 13:43:32,385 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-15 13:43:35,572 - INFO - Visualization saved to C:\Users\sd876\OneDrive\Desktop\FractureAI\output_images\detection_result_20241015_134335.jpg
+2024-10-15 13:52:39,943 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-15 13:52:42,486 - INFO - Visualization saved to C:\Users\sd876\OneDrive\Desktop\FractureAI\output_images\detection_result_20241015_135242.jpg
+2024-10-15 13:54:39,791 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-15 13:54:42,414 - INFO - Visualization saved to C:\Users\sd876\OneDrive\Desktop\FractureAI\output_images\detection_result_20241015_135442.jpg
+2024-10-15 13:59:10,289 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-15 13:59:12,948 - INFO - Visualization saved to C:\Users\sd876\OneDrive\Desktop\FractureAI\output_images\detection_result_20241015_135912.jpg
+2024-10-15 13:59:14,624 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-15 14:06:34,600 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-20 22:34:22,501 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-20 22:35:05,761 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-20 22:35:06,507 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2024-10-20 22:35:06,525 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2024-10-20 22:35:07,314 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2024-10-20 22:35:32,213 - INFO - GorQClient initialized with API key: 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
+2024-10-20 22:35:52,925 - INFO - Visualization saved to C:\Users\sd876\OneDrive\Desktop\FractureAI\output_images\detection_result_20241020_223552.jpg
+2024-10-20 22:35:53,258 - INFO - GorQClient initialized with API key: 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
+2024-10-20 22:35:53,258 - INFO - Calling LLaMA model with user message.
+2024-10-20 22:35:54,196 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 22:35:55,312 - INFO - Response received from LLaMA model.
+2024-10-20 22:41:21,380 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-20 22:41:21,930 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2024-10-20 22:41:21,945 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2024-10-20 22:41:23,347 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2024-10-20 22:41:39,039 - INFO - GorQClient initialized with API key: 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
+2024-10-20 22:42:00,491 - INFO - Visualization saved to C:\Users\sd876\OneDrive\Desktop\FractureAI\output_images\detection_result_20241020_224200.jpg
+2024-10-20 22:43:08,197 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-20 22:43:08,742 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2024-10-20 22:43:08,757 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2024-10-20 22:43:10,060 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2024-10-20 22:43:18,663 - INFO - Visualization saved to C:\Users\sd876\OneDrive\Desktop\FractureAI\output_images\detection_result_20241020_224318.jpg
+2024-10-20 22:43:19,031 - INFO - GorQClient initialized with API key: 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
+2024-10-20 22:43:19,031 - INFO - Calling LLaMA model with user message.
+2024-10-20 22:43:19,957 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 22:43:20,989 - INFO - Response received from LLaMA model.
+2024-10-20 22:43:38,491 - INFO - GorQClient initialized with API key: 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
+2024-10-20 22:43:58,570 - INFO - GorQClient initialized with API key: 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
+2024-10-20 22:45:44,583 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-20 22:47:16,711 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-20 22:47:17,916 - INFO - Visualization saved to C:\Users\sd876\OneDrive\Desktop\FractureAI\output_images\detection_result_20241020_224717.jpg
+2024-10-20 22:47:18,230 - INFO - GorQClient initialized with API key: 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
+2024-10-20 22:47:18,230 - INFO - Calling LLaMA model with user message.
+2024-10-20 22:47:19,398 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 22:47:20,526 - INFO - Response received from LLaMA model.
+2024-10-20 22:47:56,849 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-20 22:47:58,053 - INFO - Visualization saved to C:\Users\sd876\OneDrive\Desktop\FractureAI\output_images\detection_result_20241020_224758.jpg
+2024-10-20 22:47:58,361 - INFO - GorQClient initialized with API key: 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
+2024-10-20 22:47:58,361 - INFO - Calling LLaMA model with user message.
+2024-10-20 22:47:59,442 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 22:48:00,537 - INFO - Response received from LLaMA model.
+2024-10-20 22:52:28,550 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-20 22:52:29,203 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2024-10-20 22:52:29,220 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2024-10-20 22:52:30,083 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2024-10-20 22:53:06,902 - INFO - GorQClient initialized with API key: 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
+2024-10-20 22:53:48,523 - INFO - GorQClient initialized with API key: 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
+2024-10-20 22:56:20,632 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-20 22:56:21,167 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2024-10-20 22:56:21,179 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2024-10-20 22:56:22,382 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2024-10-20 22:56:31,018 - INFO - GorQClient initialized with API key: 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
+2024-10-20 22:57:22,571 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-20 22:57:44,516 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-20 22:57:45,680 - INFO - Visualization saved to C:\Users\sd876\OneDrive\Desktop\FractureAI\output_images\detection_result_20241020_225745.jpg
+2024-10-20 22:57:45,978 - INFO - GorQClient initialized with API key: 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
+2024-10-20 22:57:45,978 - INFO - Calling LLaMA model with user message.
+2024-10-20 22:57:46,557 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 22:57:47,713 - INFO - Response received from LLaMA model.
+2024-10-20 23:02:17,622 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-20 23:02:18,300 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2024-10-20 23:02:18,319 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2024-10-20 23:02:19,224 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2024-10-20 23:02:32,068 - INFO - GorQClient initialized with API key: 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
+2024-10-20 23:03:39,106 - INFO - Visualization saved to C:\Users\sd876\OneDrive\Desktop\FractureAI\output_images\detection_result_20241020_230339.jpg
+2024-10-20 23:03:39,480 - INFO - GorQClient initialized with API key: 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
+2024-10-20 23:03:39,480 - INFO - Calling LLaMA model with user message.
+2024-10-20 23:03:40,141 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 23:03:41,490 - INFO - Response received from LLaMA model.
+2024-10-20 23:04:16,804 - INFO - GorQClient initialized with API key: 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
+2024-10-20 23:06:56,266 - INFO - Visualization saved to C:\Users\sd876\OneDrive\Desktop\FractureAI\output_images\detection_result_20241020_230656.jpg
+2024-10-20 23:06:56,657 - INFO - GorQClient initialized with API key: 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
+2024-10-20 23:06:56,658 - INFO - Calling LLaMA model with user message.
+2024-10-20 23:06:57,250 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 23:06:58,177 - INFO - Response received from LLaMA model.
+2024-10-20 23:07:55,940 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-20 23:07:56,538 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2024-10-20 23:07:56,552 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2024-10-20 23:07:57,666 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2024-10-20 23:08:06,007 - INFO - Visualization saved to C:\Users\sd876\OneDrive\Desktop\FractureAI\output_images\detection_result_20241020_230806.jpg
+2024-10-20 23:08:06,350 - INFO - GorQClient initialized with API key: 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
+2024-10-20 23:08:06,351 - INFO - Calling LLaMA model with user message.
+2024-10-20 23:08:07,514 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 23:08:10,589 - INFO - Response received from LLaMA model.
+2024-10-20 23:09:40,784 - INFO - Visualization saved to C:\Users\sd876\OneDrive\Desktop\FractureAI\output_images\detection_result_20241020_230940.jpg
+2024-10-20 23:09:41,092 - INFO - GorQClient initialized with API key: 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
+2024-10-20 23:09:41,092 - INFO - Calling LLaMA model with user message.
+2024-10-20 23:09:41,962 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-20 23:09:43,311 - INFO - Response received from LLaMA model.
+2024-10-21 11:06:57,273 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-21 11:06:57,876 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2024-10-21 11:06:57,893 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2024-10-21 11:07:00,153 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2024-10-21 11:07:10,140 - INFO - Visualization saved to C:\Users\sd876\OneDrive\Desktop\FractureAI\output_images\detection_result_20241021_110710.jpg
+2024-10-21 11:07:10,518 - INFO - GorQClient initialized with API key: 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
+2024-10-21 11:07:10,518 - INFO - Calling LLaMA model with user message.
+2024-10-21 11:07:11,285 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-21 11:07:12,163 - INFO - Response received from LLaMA model.
+2024-10-21 11:09:14,842 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-21 11:09:15,348 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2024-10-21 11:09:15,361 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2024-10-21 11:09:16,293 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2024-10-21 11:09:58,402 - INFO - Visualization saved to C:\Users\sd876\OneDrive\Desktop\FractureAI\output_images\detection_result_20241021_110958.jpg
+2024-10-21 11:09:58,721 - INFO - GorQClient initialized with API key: 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
+2024-10-21 11:09:58,721 - INFO - Calling LLaMA model with user message.
+2024-10-21 11:09:59,610 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-10-21 11:10:01,594 - INFO - Response received from LLaMA model.
+2024-10-21 14:14:32,158 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-21 14:14:33,468 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2024-10-21 14:14:33,528 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2024-10-21 14:14:34,161 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2024-10-21 14:19:22,456 - INFO - Model loaded successfully from C:\Users\sd876\OneDrive\Desktop\FractureAI\training\outputs\model checkpoints\last.pt
+2024-10-21 14:19:23,723 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2024-10-21 14:19:23,757 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2024-10-21 14:19:24,906 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"

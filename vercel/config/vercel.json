@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "backend/app/api/*.py",
+      "use": "@vercel/python"
+    },
+    {
+      "src": "frontend/public/index.html",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/(.*)",
+      "dest": "/backend/app/api/$1",
+      "methods": ["GET", "POST"]
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/frontend/public/index.html"
+    }
+  ],
+  "env": {
+    "API_KEY": "@api_key",
+    "OTHER_ENV_VAR": "@other_env_var"
+  },
+  "functions": {
+    "backend/app/api/index.py": {
+      "runtime": "python3.9",
+      "maxDuration": 10
+    }
+  }
+}
