@@ -6,8 +6,11 @@ class APIManager:
         self.api_keys = [
             os.getenv("GORQ_API_KEY_1"),
             os.getenv("GORQ_API_KEY_2"),
+<<<<<<< HEAD
             os.getenv("GORQ_API_KEY_3"),
             os.getenv("GORQ_API_KEY_4")
+=======
+>>>>>>> 1f693feac21ffb672e81a6a763c82a8b795f5d34
             # Add more API keys as needed
         ]
         self.current_key_index = 0
@@ -35,4 +38,8 @@ class APIManager:
         return True  # Indicate that we can proceed with the request
 
     def increment_requests(self):
+<<<<<<< HEAD
         self.requests_made += 1
+=======
+        self.requests_made += 1
+>>>>>>> 1f693feac21ffb672e81a6a763c82a8b795f5d34

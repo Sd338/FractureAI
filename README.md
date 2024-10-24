@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,6 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
+=======
+>>>>>>> 1f693feac21ffb672e81a6a763c82a8b795f5d34
 
 # FractureAI 🩺✨
 
@@ -229,5 +232,9 @@ Thank you for contributing!
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## 📧 Contact
+<<<<<<< HEAD
 For questions or support, please reach out via the contact methods on my GitHub profile.
 >>>>>>> 64354769889afa6bb8a608b0dd165236fbcedce9
+=======
+For questions or support, please reach out via the contact methods on my GitHub profile.
+>>>>>>> 1f693feac21ffb672e81a6a763c82a8b795f5d34
