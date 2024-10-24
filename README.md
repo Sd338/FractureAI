@@ -1,5 +1,4 @@
 
-
 # FractureAI 🩺✨
 
 ## Overview 🌟
@@ -158,9 +157,4 @@ Thank you for contributing!
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## 📧 Contact
-<<<<<<< HEAD
 For questions or support, please reach out via the contact methods on my GitHub profile.
->>>>>>> 64354769889afa6bb8a608b0dd165236fbcedce9
-=======
-For questions or support, please reach out via the contact methods on my GitHub profile.
->>>>>>> 1f693feac21ffb672e81a6a763c82a8b795f5d34
