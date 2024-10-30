@@ -1,3 +1,31 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+=======
+=======
+>>>>>>> 1f693feac21ffb672e81a6a763c82a8b795f5d34
 # Ignore model and training related files
 training/                     # Ignore entire training directory
 huggingface/models/           # Ignore trained models
@@ -31,6 +59,14 @@ package.json                  # Ignore Node.js dependencies file
 tests/                        # Ignore entire tests directory
 yolov8n.pt.03b2cfe2b2154f6e90a3b9f7e2994e66.partial  # Ignore specific model files
 
+<<<<<<< HEAD
+# secret
+.env
+
+gradio/
+>>>>>>> 64354769889afa6bb8a608b0dd165236fbcedce9
+=======
 # Ignore additional environment variables and config files
 .env                          # Ignore environment variable files
 
+>>>>>>> 1f693feac21ffb672e81a6a763c82a8b795f5d34
